@@ -2,7 +2,7 @@
 // const apiKey="5571566b05442a7b5698f0b4e500e6d3";
 const apiKey="863242cfb2b1d357e6093d9a4df19a4b";
 // const apiUrl="http://api.openweathermap.org/data/2.5/weather?units=metric&q=rohtak";
-const apiUrl="http://api.openweathermap.org/data/2.5/weather?units=metric&q=";
+const apiUrl="https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
 // const apiUrl="http://api.openweathermap.org/data/2.5/weather?q={germany},
 // {country%20code}&appid={5571566b05442a7b5698f0b4e500e6d3}&units=metric";
